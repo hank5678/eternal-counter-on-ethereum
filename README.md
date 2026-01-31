@@ -21,10 +21,10 @@
 
 ### 前端
 
-- **React 19** + **TypeScript** - UI 框架
-- **Vite 7** - 快速建構工具
-- **Tailwind CSS 4** - 樣式框架
-- **React Query 5** - 資料同步與狀態管理
+- **React** + **TypeScript** - UI 框架
+- **Vite** - 快速建構工具
+- **Tailwind CSS** - 樣式框架
+- **React Query** - 資料同步與狀態管理
 - **shadcn/ui** - UI 元件庫（Alert Dialog, Button）
 - **Three.js** - 3D 背景動畫
 - **react-toastify** - Toast 通知
@@ -32,12 +32,12 @@
 ### 後端
 
 - **Node.js** + **Vercel Functions** - Serverless API
-- **Web3.js 4.16** - 與區塊鏈互動
+- **Web3.js** - 與區塊鏈互動
 
 ### 智能合約
 
-- **Solidity 0.8.20** - 合約語言
-- **Hardhat 2.23** - 開發/測試/部署框架
+- **Solidity** - 合約語言
+- **Hardhat** - 開發/測試/部署框架
 - **Sepolia Testnet** - 測試網路
 - 合約地址： `0x438EC6699A8556aefB0d80c52e1a8db580EE21C4`
 - 查看合約： [Sepolia Etherscan](https://sepolia.etherscan.io/address/0x438EC6699A8556aefB0d80c52e1a8db580EE21C4)

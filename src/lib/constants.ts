@@ -39,5 +39,5 @@ export const SUCCESS_MESSAGES = {
 export const BUTTON_LABELS = {
   INCREMENT: "點擊 +1 上鏈",
   LOADING: "載入中...",
-  PENDING: "合約中..."
+  PENDING: "正在調用合約..."
 } as const
